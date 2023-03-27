@@ -3,5 +3,5 @@
 using namespace std;
 
 int main(){
-    cout << "ver.1"<<endl;
+    cout << "ver.2"<<endl;
 }
